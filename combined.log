@@ -1,0 +1,11 @@
+{"level":"info","message":"Server started on port 3000","timestamp":"2025-05-14T18:15:48.918Z"}
+{"level":"info","message":"New client connected","socketId":"WZ3TQuq9ClvLj4g9AAAB","timestamp":"2025-05-14T18:15:58.038Z"}
+{"level":"info","message":"User joined","socketId":"WZ3TQuq9ClvLj4g9AAAB","timestamp":"2025-05-14T18:16:00.869Z","username":"Ajitana"}
+{"level":"info","message":"Chat message received","messageLength":5,"timestamp":"2025-05-14T18:16:03.946Z","username":"Ajitana"}
+{"level":"info","message":"New client connected","socketId":"UDSdOagd6DdhawTLAAAD","timestamp":"2025-05-14T18:16:07.640Z"}
+{"level":"info","message":"User joined","socketId":"UDSdOagd6DdhawTLAAAD","timestamp":"2025-05-14T18:16:12.181Z","username":"Duybu"}
+{"level":"info","message":"Chat message received","messageLength":2,"timestamp":"2025-05-14T18:16:14.318Z","username":"Duybu"}
+{"level":"info","message":"Chat message received","messageLength":22,"timestamp":"2025-05-14T18:16:22.479Z","username":"Duybu"}
+{"level":"info","message":"Chat message received","messageLength":21,"timestamp":"2025-05-14T18:16:32.482Z","username":"Ajitana"}
+{"level":"info","message":"User disconnected","socketId":"UDSdOagd6DdhawTLAAAD","timestamp":"2025-05-14T18:16:40.440Z","username":"Duybu"}
+{"level":"info","message":"User disconnected","socketId":"WZ3TQuq9ClvLj4g9AAAB","timestamp":"2025-05-14T18:16:41.959Z","username":"Ajitana"}
